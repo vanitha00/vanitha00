@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanitha00
+- 👋 Hi, I’m @vanitha
 - 👀 I’m interested in full stack java, and ai.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on make repository on github.
